@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "quickcrex-score-admin",
+    "staging": "tinder-clone-2023-d101c",
+    "quick crex": "quickcrex-score-admin"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
