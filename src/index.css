@@ -53,3 +53,22 @@ body::-webkit-scrollbar-thumb {
     transparent
   );
 }
+
+
+.custom_live_circle::after {
+  content: "";
+  width: 8px;
+  height: 8px;
+  background-color: #ff7575;
+  border-radius: 50%;
+}
+
+.squad_active {
+  color: #6eb4ef;
+  background: linear-gradient(
+    270.12deg,
+    rgba(51, 149, 191, 0.1) 0.07%,
+    rgba(51, 149, 191, 0.1) 93.63%,
+    rgba(51, 149, 191, 0) 99.87%
+  );
+}
